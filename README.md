@@ -1,4 +1,4 @@
-# jogo_da_memoria
+# Jogo_da_memoria
 Um jogo interativo para descobrir os pares das cartas
 
 ## ✨ Demonstração
@@ -32,7 +32,7 @@ Desenvolvido com 8 pares de emojis, na tabela 4X4, tente acertar os pares.
 
 ## Visualização do projeto
 
-[veja ao vivo]
+[veja ao vivo](https://angela-silva.github.io/jogo_da_memoria/)
 
 👩‍💻 Autora
 Feito com muito carinho por Angela Rocha ❤️
