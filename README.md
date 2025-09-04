@@ -34,5 +34,5 @@ Desenvolvido com 8 pares de emojis, na tabela 4X4, tente acertar os pares.
 
 [veja ao vivo](https://angela-silva.github.io/jogo_da_memoria/)
 
-👩‍💻 Autora
+## 👩‍💻 Autora
 Feito com muito carinho por Angela Rocha ❤️
