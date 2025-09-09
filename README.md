@@ -1,4 +1,4 @@
-## Jogo_da_memoria
+## Jogo da Memória
 Um jogo interativo para descobrir os pares das cartas
 
 ## ✨ Demonstração
