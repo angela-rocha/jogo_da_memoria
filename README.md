@@ -1,5 +1,5 @@
 ## Jogo da Memória
-Um jogo interativo para descobrir os pares das cartas
+Um jogo interativo para descobrir os pares das cartas.
 
 ## ✨ Demonstração
 
